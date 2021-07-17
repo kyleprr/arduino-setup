@@ -8,10 +8,10 @@ The following repository assumes that [ROS](https://www.ros.org/) is installed a
 ## Simulated Environment [Gazebo & RViz]
 
 ### Planned Environment Layout:
-<img src="https://github.com/kyleprr/Capstone-Project-Surgical-Robot/blob/main/media/planned-environment-layout.jpg" width="850">
+
 
 ### Final Environment Layout (Due to computer hardware issues):
-<img src="https://github.com/kyleprr/Capstone-Project-Surgical-Robot/blob/main/media/Simulation-full.gif" width="850">
+
 
 
 ## Constrol System
