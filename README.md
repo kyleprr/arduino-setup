@@ -3,25 +3,32 @@
 
 Install the following boards
 
-The following repository assumes that [ROS](https://www.ros.org/) is installed and setup on a linux machine. This package has been tested using `ROS Kinetic` running on a `Ubuntu 16.04 LTS` machine.
+## ESP8266
 
-## Simulated Environment [Gazebo & RViz]
+### Board Installation
+  ```
+  $ sudo apt-get install ros-kinetic-universal-robot
+  ```
+### Libraries
+* Tets
 
-### Planned Environment Layout:
+
+## ESP32
+
+### Board Installation
+  ```
+  $ sudo apt-get install ros-kinetic-universal-robot
+  ```
+### Libraries
+* Tets
+
+  
+  
 
 
 ### Final Environment Layout (Due to computer hardware issues):
 
 
-
-## Constrol System
-1. [`surgical_robot_controller.py`](https://github.com/kyleprr/Capstone-Project-Surgical-Robot/blob/main/surgical_robot/scripts/surgical_robot_controller.py) publishes waypoints for the robot arm to follow in sequence to perform the required surgery.
-
-2. [`move_robot_arm.py`](https://github.com/kyleprr/Capstone-Project-Surgical-Robot/blob/main/surgical_robot/scripts/move_robot_arm.py) is not part of the project but a short script to test the movement of the robotic arm to ensure it has been calibrated correctly.
-
-3. A short video has been put together to show how to run the launch file and control system: https://youtu.be/LHtCcleCMA4
-
-4. A useful tool to visualise the UR robot movements can be found here: https://cyberbotics.com/doc/guide/ure
 
 
 ## How to use this repository
