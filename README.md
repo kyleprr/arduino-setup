@@ -45,6 +45,7 @@ Install the following boards
   ```
   https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
   http://digistump.com/package_digistump_index.json
+  https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
   ```
   
   
