@@ -1,7 +1,7 @@
 # Arduino Setup
 ## Board Installations
 
-This repository demonstrates a robot arm controller system for the UR3 robotic arm. A python script was developed to control the robotic arm within a simulated environment inside Gazebo.
+Install the following boards
 
 The following repository assumes that [ROS](https://www.ros.org/) is installed and setup on a linux machine. This package has been tested using `ROS Kinetic` running on a `Ubuntu 16.04 LTS` machine.
 
