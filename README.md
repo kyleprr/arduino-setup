@@ -1,2 +1,1 @@
-# arduino-setup
-Set up Arduino
+# Arduino Setup
