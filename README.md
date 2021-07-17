@@ -1,16 +1,5 @@
 # Arduino Setup
-
-## Board Preferences
-* ESP8266:
-* http://arduino.esp8266.com/stable/package_esp8266com_index.json
-
-* ESP32:
-* https://dl.espressif.com/dl/package_esp32_index.json
-* 
-
-
-# Engineering Capstone Project - AUT-21-04348
-## Robot Arm Control for Minimally Invasive Surgery
+## Board Installations
 
 This repository demonstrates a robot arm controller system for the UR3 robotic arm. A python script was developed to control the robotic arm within a simulated environment inside Gazebo.
 
