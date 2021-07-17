@@ -13,6 +13,7 @@ Install the following boards
   
 ### Libraries
 * Tets
+* https://arduino-esp8266.readthedocs.io/en/latest/installing.html
 
 
 ## ESP32
