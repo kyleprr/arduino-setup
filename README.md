@@ -37,24 +37,3 @@ Install Universal Robots ROS Drivers:
   $ git clone https://github.com/UniversalRobots/Universal_Robots_ROS_Driver.git universal_robots_ros_driver
   $ git clone -b calibration_devel https://github.com/fmauch/universal_robot.git universal_robot
   ```
-
-- Install [ROS Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu), Gazebo, RViz, Universal Robots and MoveIt packages. 
-- Created a workspace named as `surgical_robot_ws`, download the repository to `surgical_robot_ws/src/`
-  ```
-  $ cd surgical_robot_ws/src
-  $ git clone https://github.com/kyleprr/Capstone-Project-Surgical-Robot.git
-  ```
-- Build the code under directory `surgical_robot_ws/`,
-  ```
-  $ catkin build
-  $ source devel/setup.bash
-  ```
-- Run the code with ROS, Gazebo & RViz
-  ```
-  $ roslaunch surgical_robot surgical_UR3.launch
-  ```
-  
-- Run the controller code (~/surgical_robot_ws/src/surgical_robot/scripts)
-  ```
-  $ python surgical_robot_controller.py
-  ```
