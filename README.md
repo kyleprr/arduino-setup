@@ -17,7 +17,7 @@ Install the following boards
 
 ### Board Installation
   ```
-  $ sudo apt-get install ros-kinetic-universal-robot
+  https://dl.espressif.com/dl/package_esp32_index.json
   ```
 ### Libraries
 * Tets
