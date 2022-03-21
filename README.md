@@ -54,8 +54,8 @@ Install the following boards
 
 <details>
   <summary>Test - Further Details</summary>
-- [ ]  Test 1 = Test
-- [ ]  Test 2 = Test3
+- [ ]  Test 1 - Test
+- [ ]  Test 2 - Test3
 </details>
   
   
