@@ -51,7 +51,7 @@ Install the following boards
   
   
   
-  
+  <details>
   <summary>Test</summary>
 
 - [ ]  TAUTULLI_URL - Local/Remote IP to connect to Tautulli ('http://localhost:8181',  'https://x.x.x.x:8182', etc.)
