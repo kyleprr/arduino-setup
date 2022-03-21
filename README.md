@@ -57,5 +57,14 @@ Install the following boards
   - [ ]  TAUTULLI_URL - Local/Remote IP to connect to Tautulli ('http://localhost:8181',  'https://x.x.x.x:8182', etc.)
   - [ ]  TAUTULLI_APIKEY - Tautulli Settings > Access Control > Enable API - API Key
 </details>
+
+
+
+<details>
+<summary>Tautulli</summary>
+
+- [ ]  TAUTULLI_URL - Local/Remote IP to connect to Tautulli ('http://localhost:8181',  'https://x.x.x.x:8182', etc.)
+- [ ]  TAUTULLI_APIKEY - Tautulli Settings > Access Control > Enable API - API Key
+</details>
   
   
