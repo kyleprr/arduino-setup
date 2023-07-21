@@ -28,6 +28,18 @@ Install the following boards
 * Tets
 
 
+## RP2040
+
+### Board Installation
+  ```
+  https://dl.espressif.com/dl/package_esp32_index.json
+  ```
+   Boards manager: RP2040 by
+  
+### Libraries
+* Tets
+
+
 ## STM32
 
 ### Board Installation
