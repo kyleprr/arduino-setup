@@ -12,7 +12,7 @@ Install the following boards
   Boards manager: ESP8266 by ESP8266 Community
   
 ### Libraries
-* Tets
+* ToDo
 * https://arduino-esp8266.readthedocs.io/en/latest/installing.html
 
 
@@ -25,7 +25,7 @@ Install the following boards
    Boards manager: ESP32 by Espressif Systems
   
 ### Libraries
-* Tets
+* ToDo
 
 
 ## RP2040
@@ -34,10 +34,10 @@ Install the following boards
   ```
   https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
   ```
-   Boards manager: RP2040 by
+   Boards manager: Raspberry Pi Pico/RP2040 by Earle F Philhower
   
 ### Libraries
-* Tets
+* ToDo
 
 
 ## STM32
@@ -49,7 +49,7 @@ Install the following boards
    Boards manager: ESP32 by Espressif Systems
   
 ### Libraries
-* Tets
+* ToDo
 
 
 
