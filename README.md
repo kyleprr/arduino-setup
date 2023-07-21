@@ -32,7 +32,7 @@ Install the following boards
 
 ### Board Installation
   ```
-  [https://dl.espressif.com/dl/package_esp32_index.json](https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json)
+  https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
   ```
    Boards manager: RP2040 by
   
