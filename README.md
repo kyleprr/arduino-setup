@@ -13,7 +13,6 @@ Install the following boards
   
 ### Libraries
 * ToDo
-* https://arduino-esp8266.readthedocs.io/en/latest/installing.html
 
 
 ## ESP32
